@@ -1,4 +1,4 @@
-import timeeee
+import time
 import random
 import pandas
 from tkinter import *
