@@ -1,5 +1,5 @@
 from tkinter import *
-from playsound import *
+# from playsound import *
 import time
 import math
 
